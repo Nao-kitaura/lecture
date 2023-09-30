@@ -1,7 +1,7 @@
 ## 第３回課題報告書
 
 #### 課題「サンプルアプリケーションのデプロイ」
-![デプロイ](/lecture/picture03/deploy.png)
+![デプロイ](picture03/deploy.png)
 
 
 #### APサーバーについて
@@ -11,17 +11,17 @@ Ruby であれば Rails にも組み込まれている Puma が有名。
 
 #### AP サーバーの名前とバージョンを確認してみましょう。
 puma version 5.6.5 (ruby 3.1.2-p20)
-![ＡＰサーバー](/lecture/picture03/puma.png)
+![ＡＰサーバー](picture03/puma.png)
 
 #### AP サーバーを終了させた場合、引き続きアクセスできますか?結果を確認して、また AP サーバーを起動してください。
 サーバーを終了（停止＝contorol＋c）した状態ではアクセス出来ず、oopsと表示された。
 
 再度起動（rails s）すると、アクセスできた。
-![ＡＰサーバー停止](/lecture/picture03/AP.png)
+![ＡＰサーバー停止](picture03/AP.png)
 
 #### DBサーバーについて。サンプルアプリケーションで使った DB サーバー(DB エンジン)の名前と、今 Cloud9 で動作しているバージョンはいくつか確認してみましょう。
 MySQL version: 8.0.34
-![MySQL](/lecture/picture03/MySQL.png)
+![MySQL](picture03/MySQL.png)
 
 #### DB サーバーを終了させた場合、引き続きアクセスできますか?
 出来ず、oopsと表示される。下記コマンドを
