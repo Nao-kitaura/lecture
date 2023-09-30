@@ -1,7 +1,7 @@
 ## 第３回課題報告書
 
 #### 課題「サンプルアプリケーションのデプロイ」
-![デプロイ](/lecture/picture/deploy.png)
+![デプロイ](https://github.com/Nao-kitaura/lecture/blob/git-RT/lecture03.md#:~:text=bundler.png-,deploy,-.png)
 
 
 #### APサーバーについて
