@@ -32,7 +32,7 @@ MySQL version: 8.0.34
 
 #### Railsの構成管理ツールの名前は何でしたか?
 Bundler（メモ:今回のバージョンは bundler:2.3.14)
-![Bundler](/lecture/picture03/bundler.png)
+![Bundler](picture03/bundler.png)
 
 #### 今回の課題から学んだことを報告してください。
 - 講師のデモを見ながら、レクチャーの言葉と行程を照合させていった
