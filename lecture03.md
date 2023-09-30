@@ -28,7 +28,7 @@ MySQL version: 8.0.34
 - sudo service mysqld status　起動状態確認
 - sudo service mysqld stop 停止
 - sudo service mysqld start 起動
-![DBサーバー停止](/lecture/picture03/DB.png)
+![DBサーバー停止](picture03/DB.png)
 
 #### Railsの構成管理ツールの名前は何でしたか?
 Bundler（メモ:今回のバージョンは bundler:2.3.14)
